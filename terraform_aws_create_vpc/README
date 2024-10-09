@@ -1,0 +1,9 @@
+This is a simple project created by Sean.
+
+1) Sign in to your account using AWS CLI
+
+2) Run terraform init to install all the necessary plugins for your provider.
+
+3) Run terraform plan to scan for syntax errors.
+
+4) Run terraform apply to create instances using the terraform code.
