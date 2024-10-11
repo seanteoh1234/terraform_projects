@@ -1,5 +1,10 @@
-This is a simple project created by Sean.
+This is a simple Terraform project created by Sean.
 
+This project aims to:
+1. To learn how to use the variables block in the config file and how to pass data from the variables file to the configuration file.
+2. To learn how to create a terraform configuration file that can launch an AWS VPC and a subnet under it. After making the VPC and subnet, use the newly created VPC ID and Subnet ID to create an EC2 instance.
+
+Steps to use the Terraform.
 1) Sign in to your account using AWS CLI
 
 2) Run terraform init to install all the necessary plugins for your provider.
